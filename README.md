@@ -4,6 +4,9 @@ GLaDOS is trustable networking manager, a system to master your network.
 
 [Enter GLaDOS](https://glados.rocks/) | [Login](https://glados.rocks/) | [Register](https://glados.rocks/)
 
+## Glados checkin
+天自动签到，推送结果
+
 ## Support Clients
 
 - [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)
